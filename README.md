@@ -3,7 +3,8 @@
 
 ## Description
 - CS286CazymesGridSearch.ipynb contains the code for training each Multilayer Perceptron (MLP) model. Upload and run in Google Colab
-- fastaData.zip contains all of the fasta files used to train the MLP models. Upload to Google Drive if running CS286CazymesGridSearch.ipynb
+- CS286_Enzymes_In_Cow_Rumen.ipynb contains the code for other ML techniques we tried such as SVM, Random Forest, etc. Upload and run in colab colab as well.
+- fastaData.zip contains all of the fasta files used to train the MLP models. Upload to Google Drive for running with CS286CazymesGridSearch.ipynb or CS286_Enzymes_In_Cow_Rumen.ipynb
 - mlpModelWeights.zip contains the MLP weights trained using the above dataset and code. Models are sklearn MLPClassifiers and can be loaded using pickle. Example below.
 ```
 import pickle
